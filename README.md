@@ -7,11 +7,11 @@ firebase website hosting:
 
 3. create directory public
 
-3. command:firebase init
+4. command:firebase init
 
-4. choose  web host by pesss pace
+5. choose  web host by pesss pace
 
-5. command:firebase deploy
+6. command:firebase deploy
 
-6.visit published URL 
+7.visit published URL 
 https://vue-crud-7965d.firebaseapp.com/
