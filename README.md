@@ -1,5 +1,5 @@
 # Firebase_website_host
-firebase website hosting 
+firebase website hosting:
 
 1. npm  install -g firbase-tools
 
